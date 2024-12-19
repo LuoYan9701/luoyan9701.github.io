@@ -1,6 +1,6 @@
 ---
 title: About others
-author: Tao He
+author: Luo Yan
 date: 2022-02-04
 category: InSARDoc
 layout: post

@@ -40,7 +40,7 @@
             },
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "Luo Yan",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
